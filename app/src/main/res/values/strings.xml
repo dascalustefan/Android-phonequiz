@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Beggining</string>
+    <string name="title_activity_app_login">Quiz Sign</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <!-- Strings related to Main Menu -->
+    <string name="AppVersion">App Version</string>
+    <string name="Login">Log In</string>
+    <string name="Signup">Register</string>
+    <string name="About">About</string>
+    <string name="Faq">FAQ</string>
+    <!-- Strings related to About -->
+    <string name="Author">Author: Dascalu Stefan</string>
+    <string name="Purpose">Purpose: \n \t The purpose of this application is to serve as an Android Project for Android class year 4 Technical Military Academy</string>
+
+    <string name="Dateofconception">Date of work: 4.19.2019</string>
+    <string name="Instructions">App\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n \n\n\n\n\n\n \n\n\n\n\n\n \n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n instructions:</string>
+
+    <!-- Strings related to SIGNUP -->
+    <string name="signupbutton">Sign up</string>
+</resources>
